@@ -8,7 +8,7 @@ I build practical solutions by combining **engineering**, **design thinking**, a
 * 🧠 Interested in **innovation frameworks**, **automation**, and **human-centered design**
 * 👯 Open to collaborating on **impactful tech projects, MVPs, and research-oriented ideas**
 * 💬 Ask me about **process optimization, product discovery, web systems, or prototyping**
-* 📫 Reach me on **[LinkedIn](https://www.linkedin.com/juan-diego-lora)** or explore my work below
+* 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/juan-diego-lora)** or explore my work below
 
 ---
 
