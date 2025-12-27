@@ -15,7 +15,7 @@ I build practical solutions by combining **engineering**, **design thinking**, a
 ### 🛠️ Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,python,java,spring,sql,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,python,java,spring,git,github&perline=8" />
 </p>
 
 ---
